@@ -1,0 +1,13 @@
+input{
+    margin-left: 70px;
+    width: 500px;
+    text-align: center;
+}
+button{
+    background-color: orange;
+    margin-left: 10px;
+} 
+li{
+    color: white;
+    margin: 20px;
+}
